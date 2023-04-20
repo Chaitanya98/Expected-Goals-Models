@@ -37,7 +37,7 @@ The primary objective of this project is two-fold:
 
 This repostiory contains,
 
-1. A data folder which contains a `ShotsData` CSV file has approximately 300,000 datapoints and consists of all the shots taken by all the teams in Top 5 Football Leagues in Europe. It consists location of shots taken in form of X,Y coordinates, the type and situation of the shots and other useful features to calculate xG. This dataset taken is from a website known as Understat.
+1. A data folder which contains a `ShotsData.csv` dataset that has approximately 300,000 datapoints and consists of all the shots taken by all the teams in Top 5 Football Leagues in Europe. It consists location of shots taken in form of X,Y coordinates, the type and situation of the shots and other useful features to calculate xG. This dataset taken is from a website known as Understat.
 2. `xG Models` jupyter notebook.
 
 #
